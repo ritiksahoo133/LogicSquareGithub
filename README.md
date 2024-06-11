@@ -1,4 +1,3 @@
 #Hello World
 Hello
-log
-Hiiii
+Hiiiii
